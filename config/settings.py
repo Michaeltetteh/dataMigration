@@ -24,9 +24,6 @@ SECRET_KEY = ')^)+opf%sns(*@%5k&ave(i)ye&)f33z1fj07!3(2v*o+zk4vr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-#path to csv file
-PATH_TO_FILE = 'D:/minconda/envs/Assignment/Project/dataMigration/countries/cnt.csv'
-
 ALLOWED_HOSTS = []
 
 
